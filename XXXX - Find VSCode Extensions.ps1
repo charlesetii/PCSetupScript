@@ -1,0 +1,1 @@
+﻿code-insiders --list-extensions | % { "code-insiders --install-extension $_" }
